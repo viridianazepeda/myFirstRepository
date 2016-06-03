@@ -1,2 +1,2 @@
 # myFirstRepository
-Repository for examples, learning GitHub
+Repository for examples, learning GitHub. :)
